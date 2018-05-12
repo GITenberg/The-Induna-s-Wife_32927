@@ -1,0 +1,40 @@
+_repo: The-Induna-s-Wife_32927
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: McCormick, A. D. (Arthur David)
+    aliases:
+    - McCormick, Arthur David
+    - McCormick, A.D.
+    - M'Cormick, A. D. (Arthur David)
+    birthdate: 1860
+    deathdate: 1943
+    gutenberg_agent_id: '40073'
+    url: http://www.gutenberg.org/2009/agents/40073
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mitford, Bertram
+    birthdate: 1855
+    deathdate: 1914
+    gutenberg_agent_id: '32710'
+    url: http://www.gutenberg.org/2009/agents/32710
+description: ''
+gutenberg_issued: '2010-06-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32927'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Zulu (African people) -- Fiction'
+- !lcsh 'Ndebele (African people) -- Fiction'
+- !lcsh 'Historical fiction'
+- !lcsh 'South Africa -- History -- 19th century -- Fiction'
+title: The Induna's Wife
+url: http://www.gutenberg.org/ebooks/32927
